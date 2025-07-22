@@ -4,3 +4,5 @@ def greet_user(name):
 if __name__ == "__main__":
     user = "Shaik"
     print(greet_user(user))
+
+print("Hello from the updated main.py in my Git project!")

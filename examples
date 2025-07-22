@@ -7,3 +7,4 @@ if __name__ == "__main__":
 
 print("Hello from the updated main.py in my Git project!")
 print("Hello from the UPDATED main.py on July 22, 2025!")
+print('hiiiii')
